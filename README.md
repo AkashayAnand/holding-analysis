@@ -5,7 +5,7 @@
 - [x] setup project
 - [x] dataset research
 - [x] create type def file
-- [ ] create server files with error handeling
+- [x] create service files with error handeling
 - [ ] create context to hold and manage state
 - [ ] create layout
 - [ ] deploy project
